@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5707185961809252926
+  m_GuidHigh: 6103834092935574155
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5644090814017146414
+      m_GuidHigh: 16792872258385495741
+    m_SerializedTextureGuid:
+      m_GuidLow: 16430241910255274575
+      m_GuidHigh: 3143750354108030859
+    m_Size: {x: 0.08, y: 0.08}
+    m_SpecifySize: 1
+    m_Name: unitylogowhiteonblack
+    m_Texture: {fileID: 2800000, guid: 5a804a4ff1f7e4038b1f1e6f4ad8a02b, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5450288511094255173
+      m_GuidHigh: 3997788878334398649
+    m_SerializedTextureGuid:
+      m_GuidLow: 8148409963685700423
+      m_GuidHigh: 17879027902221787707
+    m_Size: {x: 0.05473684, y: 0.027111037}
+    m_SpecifySize: 1
+    m_Name: Rafflesia
+    m_Texture: {fileID: 2800000, guid: 99bd6347f7b071143b223a6126111ff8, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5478113795288614434
+      m_GuidHigh: 8062787508423360404
+    m_SerializedTextureGuid:
+      m_GuidLow: 3977826720869473488
+      m_GuidHigh: 10078841471781744473
+    m_Size: {x: 0.08, y: 0.08}
+    m_SpecifySize: 1
+    m_Name: "dragon_poussi\xE8re"
+    m_Texture: {fileID: 0}

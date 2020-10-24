@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/TutoAR/Scenes/SimpleAREpitech.unity
+- path: Assets/UI-UX/Scenes-UI-UX/InGame-UI-UX.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

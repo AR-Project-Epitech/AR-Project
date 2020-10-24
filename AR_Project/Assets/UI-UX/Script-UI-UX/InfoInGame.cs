@@ -21,7 +21,7 @@ public class InfoInGame : MonoBehaviour
     {
         InfoScore.text = GameStats.score;
 
-        GameStats.setScore(Math.Round((Math.Abs(Time.time))));
+      //  GameStats.setScore(Math.Round((Math.Abs(Time.time))));
         
         InfoArrows.text = GameStats.nbArrows + " / " + GameStats.nbArrowsMax;
 
